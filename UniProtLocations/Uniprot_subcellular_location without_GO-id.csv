@@ -1,0 +1,70 @@
+uniprot subcell id,location,GO_term,species,comment
+SL-0485,Centriolar satellite,GO:0034451,human,-
+SL-0304,Cilium axoneme,GO:0005930,human,-
+SL-0087,Cilium basal body,GO:0036064,human,-
+SL-0319,Clathrin-coated vesicle lumen,GO:0030136,human,-
+SL-0320,Contractile vacuole lumen,,not human,-
+SL-0321,COPI-coated vesicle lumen,GO:0030137,human,-
+SL-0322,COPII-coated vesicle lumen,GO:0030134,human,-
+SL-0323,Cvt vesicle lumen,,not human,-
+SL-0281,Cytoplasmic granule,GO:0005737,human,cytoplasm
+SL-0324,Cytoplasmic granule lumen,GO:0005737,human,cytoplasm
+SL-0282,Cytoplasmic granule membrane,GO:0005737,human,cytoplasm
+SL-9910,Cytoplasmic side,GO:0005737,human,cytoplasm
+SL-0326,Endoplasmic reticulum-Golgi intermediate compartment lumen,GO:0005793,human,ER/Golgi
+SL-9911,Extracellular side,,human,secreted/membrane
+SL-9918,Extravirionic side,,not human,-
+SL-0114,Flagellum axoneme,,not human,-
+SL-0308,Flagellum basal body,,not human,-
+SL-0115,Flagellum membrane,,not human,-
+SL-0120,Forespore inner membrane,,not human,-
+SL-0121,Forespore intermembrane space,,not human,-
+SL-0122,Forespore membrane,,not human,-
+SL-0123,Forespore outer membrane,,not human,-
+SL-0331,Gas vesicle lumen,,not human,-
+SL-9902,GPI-anchor,,human,membrane
+SL-9920,GPI-like-anchor,,human,membrane
+SL-0459,Host basolateral cell membrane,,not human,-
+SL-0483,Host chloroplast envelope,,not human,-
+SL-0396,Host cis-Golgi network,,not human,-
+SL-0397,Host cis-Golgi network membrane,,not human,-
+SL-0461,Host early endosome,,not human,-
+SL-0462,Host early endosome membrane,,not human,-
+SL-0474,Host glyoxysome,,not human,-
+SL-0475,Host peroxisome,,not human,-
+SL-0432,Host phagosome,,not human,-
+SL-0433,Host phagosome membrane,,not human,-
+SL-0463,Host trans-Golgi network,,not human,-
+SL-0464,Host trans-Golgi network membrane,,not human,-
+SL-9912,Intermembrane side,GO:0031970,human,-
+SL-9919,Intravirionic side,,not human,-
+SL-9901,Lipid-anchor,,human,membrane
+SL-9914,Lumenal side,,human,membrane
+SL-9913,Matrix side,,human,membrane
+SL-0484,Microtubule organizing center,GO:0005815,human,-
+SL-0438,Mitosome envelope,,not human,-
+SL-0439,Mitosome inner membrane,,not human,-
+SL-0440,Mitosome intermembrane space,,not human,-
+SL-0441,Mitosome matrix,,not human,-
+SL-0442,Mitosome membrane,,not human,-
+SL-0443,Mitosome outer membrane,,not human,-
+SL-9909,Multi-pass membrane protein,,human,membrane
+SL-0340,Multivesicular body lumen,GO:0097486,human,-
+SL-9915,Nucleoplasmic side,GO:0005654,human,-
+SL-0353,Organellar chromatophore stroma,,not human,-
+SL-0341,Parasitophorous vacuole lumen,,not human,-
+SL-9900,Peptidoglycan-anchor,,not human,-
+SL-9903,Peripheral membrane protein,,human,membrane
+SL-9916,Periplasmic side,,not human,-
+SL-0342,Phagosome lumen,GO:0045335,human,-
+SL-0471,Pseudopodium tip,GO:0031143,human,-
+SL-0347,Secretory vesicle lumen,GO:0098566,human,-
+SL-9904,Single-pass membrane protein,,human,membrane
+SL-9905,Single-pass type I membrane protein,,human,membrane
+SL-9906,Single-pass type II membrane protein,,human,membrane
+SL-9907,Single-pass type III membrane protein,,human,membrane
+SL-9908,Single-pass type IV membrane protein,,human,membrane
+SL-0253,Spore core,,not human,-
+SL-9917,Stromal side,,not human,-
+SL-0263,Tegument,,not human,-
+SL-0264,Tegument membrane,,not human,-

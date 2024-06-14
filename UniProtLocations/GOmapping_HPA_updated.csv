@@ -1,0 +1,38 @@
+location,GO_term,hierarchical_level,to_look_into
+Actin filaments,GO:0015629,7,
+Aggresome,GO:0016235,5,
+Cell Junctions,GO:0030054,3,
+Centriolar satellite,GO:0034451,10,"part of centrosome, shouldn't it be MTOC"
+Centrosome,GO:0005813,9,
+Cleavage furrow,GO:0032154,6,
+Cytokinetic bridge,GO:0045171,4,not part of microtubules
+Cytoplasmic bodies,GO:0036464,7,
+Cytosol,GO:0005829,5,
+Endoplasmic reticulum,GO:0005783,6,
+Endosomes,GO:0005768,8,
+Focal adhesion sites,GO:0005925,6,
+Golgi apparatus,GO:0005794,6,
+Intermediate filaments,GO:0045111,7,
+Kinetochore,GO:0000776,10,not part of nucleus or nuc body
+Lipid droplets,GO:0005811,6,not part of vesicle hierarchy --> ends up in GO term GO:0043231
+Lysosomes,GO:0005764,8,not part of vesicle hierarchy --> ends up in GO term GO:0043231
+Microtubule ends,GO:1990752,9,
+Microtubules,GO:0015630,7,
+Midbody,GO:0030496,3,
+Midbody ring,GO:0090543,4,
+Mitochondria,GO:0005739,6,
+Mitotic chromosome,GO:0000794,9,"old annotation (GO:0005694) not part of ""nucleus"", includes mitochondrial chromosomes"
+Mitotic spindle,GO:0072686,9,
+Nuclear bodies,GO:0016604,9,one above nuclear speckles
+Nuclear membrane,GO:0031965,8,
+Nuclear speckles,GO:0016607,10,
+Nucleoli,GO:0005730,8,
+Nucleoli fibrillar center,GO:0001650,9,
+Nucleoplasm,GO:0005654,8,
+Peroxisomes,GO:0005777,7,not part of vesicle hierarchy --> ends up in GO term GO:0043231
+Plasma membrane,GO:0005886,4,
+Rods & Rings,,,
+Vesicles,GO:0043231,5,
+Vesicles,GO:0097708,6,"this is the term for ""intracellular vesicle"""
+Nucleoplasm,GO:0005634,6,"this is the term for ""nucleus"""
+Cytosol,GO:0005737,4,"this is the term for ""cytoplasm"" which includes everything in the cytoslic compartment including vesicles, golgi, É"
